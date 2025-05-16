@@ -1,0 +1,10 @@
+{
+  "name": "css-tutorial-exercises-course",
+  "version": "0.1.0",
+  "description": "Learn CSS with an interactive and auto-graded tutorial with dozens of exercises.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
